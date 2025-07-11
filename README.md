@@ -1,4 +1,4 @@
-### Real Estate Management System
+## Real Estate Management System
 
 A full-stack, modular, and scalable Real Estate Management System designed to streamline property leasing, tenant management, payments, and maintenance tracking. Built using Node.js for the backend, a custom JavaScript/HTML/CSS frontend, and a structured MySQL database architecture in 3rd Normal Form.
 
@@ -56,11 +56,7 @@ Server runs on: `http://localhost:5001`
 
 Open `frontend/public/index.html` in your browser. All logic is managed through the `scripts/` folder.
 
-## 📸 UI Previews
-
-Screenshots are available in the `Images(for reference)/` folder to guide you through the UI/UX.
-
-## 📂 Key Functional Modules
+##  Key Functional Modules
 
 - `auth.js` — Login, JWT verification
 - `property.js` — Add/update/remove/list properties
